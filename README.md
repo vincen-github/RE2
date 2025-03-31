@@ -1,4 +1,4 @@
-# RE2
+# Without Alignment
 
  Dataset  | linear | k-nn   
 ----------|--------|-------
