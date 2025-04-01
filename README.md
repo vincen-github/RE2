@@ -1,4 +1,4 @@
-# Without Alignment
+# Without Alignment (λ=0.1)
 
  Dataset  | linear | k-nn   
 ----------|--------|-------
